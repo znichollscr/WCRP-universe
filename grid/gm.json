@@ -1,7 +1,7 @@
 {
     "@context": "000_context.jsonld",
     "id": "gm",
-    "name": "gm",
+    "name": "my great fix gm",
     "description": "global mean data",
     "region": "greenland",
     "type": "grid",
